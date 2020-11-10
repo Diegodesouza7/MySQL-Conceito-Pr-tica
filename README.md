@@ -1,3 +1,3 @@
-# MySQL-Conceito-Pr-tica
+# MySQL-Conceito-Prática
 
 Comandos MySQL para consulta = Blue
